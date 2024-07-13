@@ -1,2 +1,7 @@
 This is ashika class shhhhhhhhhhhhhhh
+<<<<<<< Updated upstream
 ashika ashika good ashika
+=======
+podi podi loosu 
+
+>>>>>>> Stashed changes
